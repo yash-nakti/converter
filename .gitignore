@@ -1,0 +1,8 @@
+node_modules/
+.env
+.env.local
+downloads/
+temp/
+*.mp3
+*.mp4
+.DS_Store
